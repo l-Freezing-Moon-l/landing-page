@@ -95,6 +95,7 @@ h2{
   font-weight: bolder;
   color: #1F2937;
   text-align: center;
+  margin-top: 0;
   margin-bottom: 30px;
 }
 
@@ -122,4 +123,15 @@ figcaption{
   max-width: 300px;
   flex-wrap: wrap;
   text-align: center;
+}
+
+.quotes{
+  background-color: #E5E7EB;
+  padding: 30px 200px;
+  font-size: 36px;
+  font-style: italic;
+  color: #1F2937;
+  /* text-align: center; */
+  display: flex;
+  flex-direction: column;
 }

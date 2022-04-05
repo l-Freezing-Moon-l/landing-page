@@ -137,4 +137,6 @@ figcaption{
 
 .thor{
   max-width: 100%;
+  margin-left: 35px;
+  text-align: start;
 }

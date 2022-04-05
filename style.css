@@ -173,3 +173,9 @@ h3, .signUp{
   align-self: flex-end;
   border: 1px solid #E5E7EB;
 }
+
+footer{
+  padding: 30px;
+  color:#E5E7EB;
+  text-align: center;
+}

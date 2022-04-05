@@ -140,3 +140,36 @@ figcaption{
   margin-left: 35px;
   text-align: start;
 }
+
+.sign{
+  background-color: aliceblue;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+}
+
+.container{
+  padding: 30px 50px;
+  background-color: #3882F6;
+  color: #E5E7EB;
+  border-radius: 5px;
+  max-width: fit-content;
+  align-self: center;
+  display: flex;
+  justify-content: space-between;
+}
+
+.words{
+  display: flex;
+  flex-direction: column;
+}
+
+h3, .signUp{
+  margin: 0;
+}
+
+.bTwo{
+  margin-left: 100px;
+  align-self: flex-end;
+  border: 1px solid #E5E7EB;
+}
